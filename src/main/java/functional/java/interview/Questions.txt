@@ -1,0 +1,2 @@
+1. write an algorithm to find the height of pyramid that the team can build.
+2. write an algorithm to find the alternative sort of given list.
